@@ -58,20 +58,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h0ll0wkn1ght&show_icons=true&title_color=4A90D9&icon_color=4A90D9&text_color=c9d1d9&bg_color=0d1117&border_color=30363d)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=h0ll0wkn1ght&background=0d1117&border=30363d&ring=4A90D9&fire=4A90D9&currStreakLabel=4A90D9&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h0ll0wkn1ght&layout=compact&title_color=4A90D9&text_color=c9d1d9&bg_color=0d1117&border_color=30363d)
-
-</div>
-
----
-
 ## Connect with Me
 
 <div align="center">
