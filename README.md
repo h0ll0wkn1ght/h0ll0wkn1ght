@@ -4,7 +4,7 @@
 
 ### CSE-IT Student | Full Stack Developer
 
-![GitHub Metrics](github-metrics.svg)
+[![GitHub Metrics](github-metrics.svg)](https://github.com/h0ll0wkn1ght)
 
 </div>
 
@@ -77,6 +77,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4A90D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthi-selvamani-710585290/)
-[![Email](https://img.shields.io/badge/Email-rig@kct.ac.in-4A90D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rig@kct.ac.in)
+[![Email](https://img.shields.io/badge/Email-sakthiselvamani2005@gmail.com-4A90D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakthiselvamani2005@gmail.com)
 
 </div>
