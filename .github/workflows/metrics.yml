@@ -19,10 +19,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: h0ll0wkn1ght
           filename: github-metrics.svg
-          base: activity
+          base: activity, repositories
           config_display: large
           config_timezone: Asia/Kolkata
-          plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
