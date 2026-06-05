@@ -7,6 +7,14 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '.github/workflows/metrics.yml'
+
+# Cancel any in-flight run when a newer one starts, so the latest config
+# always wins and stale runs can't overwrite github-metrics.svg.
+concurrency:
+  group: github-metrics
+  cancel-in-progress: true
 
 jobs:
   github-metrics:
